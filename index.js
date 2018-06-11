@@ -1,0 +1,6 @@
+module.exports = {
+    "presets": ["env"],
+    "plugins": [
+        "babel-plugin-transform-object-rest-spread"
+    ]
+};

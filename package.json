@@ -1,0 +1,16 @@
+{
+    "name": "@leviy/babel-preset-default",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:leviy/babel-preset-default.git"
+    },
+    "homepage": "https://github.com/leviy/babel-preset-default/",
+    "dependencies": {
+        "babel-plugin-transform-object-rest-spread": "^6.26",
+        "babel-preset-env": "^1.6"
+    },
+    "peerDependencies": {
+        "babel-core": "^6.26"
+    }
+}
