@@ -1,6 +1,6 @@
 module.exports = {
     presets: [
-        require("@babel/env"),
+        require("@babel/preset-env"),
     ],
     plugins: [
         require("@babel/plugin-proposal-object-rest-spread"),
